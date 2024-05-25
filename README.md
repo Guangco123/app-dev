@@ -2,7 +2,7 @@
 
 ## Breaking Bad
 
-![Breaking Bad](https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png)
+
 
 **Breaking Bad** is an American neo-Western crime drama television series created and produced by Vince Gilligan. The show aired on AMC for five seasons, from January 20, 2008, to September 29, 2013.
 
@@ -19,4 +19,4 @@
 2. **Ozymandias** - One of the most intense episodes of television ever made.
 3. **Felina** - A perfect conclusion to the series.
 
-[Learn more about Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad)
+
